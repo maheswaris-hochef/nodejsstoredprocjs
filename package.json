@@ -1,0 +1,17 @@
+{
+  "name": "callstoredproc",
+  "version": "1.0.0",
+  "description": "to call simple stored procedure",
+  "main": "callstoredproc.js",
+  "scripts": {
+  	"start": "node callstoredproc.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+        "mysql": "*",
+        "express": "*",
+        "body-parser" : "*"
+   },
+  "author": "Maheswari.S",
+  "license": "ISC"
+}
